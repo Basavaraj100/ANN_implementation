@@ -1,0 +1,15 @@
+==> 2021-11-25 12:32:56 <==
+# cmd: C:\Users\HP\anaconda3_new\Scripts\conda-script.py create --prefix ./envs python=3.7 -y
+# conda version: 4.10.3
++conda-forge/noarch::pip-21.3.1-pyhd8ed1ab_0
++conda-forge/noarch::wheel-0.37.0-pyhd8ed1ab_1
++conda-forge/win-64::ca-certificates-2021.10.8-h5b45459_0
++conda-forge/win-64::openssl-3.0.0-h8ffe710_2
++conda-forge/win-64::python-3.7.12-h900ac77_100_cpython
++conda-forge/win-64::python_abi-3.7-2_cp37m
++conda-forge/win-64::setuptools-59.2.0-py37h03978a9_0
++conda-forge/win-64::sqlite-3.36.0-h8ffe710_2
++conda-forge/win-64::ucrt-10.0.20348.0-h57928b3_0
++conda-forge/win-64::vc-14.2-hb210afc_5
++conda-forge/win-64::vs2015_runtime-14.29.30037-h902a5da_5
+# update specs: ['python=3.7']
